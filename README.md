@@ -1,44 +1,51 @@
-💻 Ralph Simon Mabulay
-IT Professional | Computer Programmer | Network Administrator | Aspiring Canadian Tech Talent
+# Hi, I'm Ralph 👋
 
-👋 Hi! I’m Ralph — an ICT professional with 12+ years of experience in software development, systems administration, and IT project management. I specialize in building secure, efficient, and user-friendly systems that solve real-world problems.
+💻 ICT Officer | Web & Systems Developer | Data Management Specialist  
+📍 Philippines → Moving to Saskatchewan, Canada 🇨🇦  
 
-🎓 Bachelor’s in Computer Science – Xavier University - Ateneo de Cagayan (WES-verified)
-🛠 Current Role: Computer Programmer II (with network and managerial duties)
-🌍 Career Goal: Transition my skills to the Canadian tech industry through Express Entry PR
-🏆 Led my ICT team to ISO 9001:2015 Certification & earned multiple national awards for ICT innovations
+---
 
-🔹 Skills & Expertise
-Programming: PHP, MySQL, JavaScript, HTML/CSS, Python (basic)
+## 🚀 About Me
+I am an experienced ICT professional with a proven track record in designing, developing, and managing secure, large-scale web applications for the public sector.  
+My expertise covers the entire development cycle — from requirements gathering to deployment, training, and support — with a focus on **automation, data accuracy, and user-friendly solutions**.
 
-Systems Development: Document Tracking, Data Management, Workflow Automation
+While my major projects are confidential government systems, they include:
 
-Network & Systems Administration: LAN/WAN setup, Server management, ICT infrastructure support
+- 📊 **Document Tracking Systems (DTS)** – Multi-office document routing with real-time tracking and audit trails  
+- 🏫 **School Information & Attendance Systems** – Streamlined learner records, reporting, and analytics  
+- 📂 **Regional Assessment Portals** – Online examination platforms with mobile and offline capabilities  
+- 🗂 **Records & Risk Management Tools** – For ISO-compliant government operations  
 
-Management & Leadership: ICT Unit head, project coordination, training facilitation
+---
 
-Tools: XAMPP, Git, Canva, O365, PowerPoint, LinkedIn, Facebook Page Management
+## 🛠️ Skills & Tools
 
-📂 Featured Projects
-(Due to government confidentiality, full repositories are private)
+**Programming & Development**  
+- PHP, JavaScript, Java  
+- SQL (MySQL, MariaDB)  
+- HTML, CSS, Bootstrap  
+- Laravel, jQuery
 
-Document Tracking System (DTS) – Custom-built PHP/MySQL system for workflow efficiency
+**Systems & Databases**  
+- Database Design & Optimization  
+- API Integration  
+- Data Analytics & Visualization  
 
-School Form 2 Encoding System – Attendance tracking for the Department of Education
+**IT Administration & Support**  
+- ISO 9001 Documentation & Compliance  
+- ICT Technical Support & Training  
+- System Implementation & User Onboarding  
 
-Social Media & ICT Support Solutions – Boosted engagement for government communication channels
+---
 
-🌱 Currently Learning
-Advanced Java & JavaScript (Functions, Objects, Methods)
+## 📌 Featured Public Work (Non-Confidential)
+I’ve created public repositories that demonstrate my coding style and problem-solving approach, using mock data to reflect real-world applications:  
 
-Cloud Technologies & DevOps concepts
+- [📄 Sample Document Workflow (Mock Data)](https://github.com/yourrepo)  
+- [🔄 Data Cleaning & CSV Tools](https://github.com/yourrepo)  
+- [📊 Simple Dashboard Template](https://github.com/yourrepo)  
 
-Canadian workplace culture in IT
+---
 
-📫 Let’s Connect!
-📧 Email: ralphsimonmabulay@gmail.com
-📱 Phone: +63 905 425 7448
-🔗 LinkedIn: linkedin.com/in/ralphmabulay
-🔗 YouTube (RedRalph): youtube.com/@RedRalph
-
-💡 I believe technology should empower people, simplify work, and create lasting impact.
+## 🌐 Connect with Me
+[💼 LinkedIn](https://linkedin.com/in/yourprofile) | [🌎 Portfolio Website](https://yourwebsite.com)
