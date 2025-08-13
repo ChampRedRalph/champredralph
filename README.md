@@ -48,5 +48,5 @@ I’ve created public repositories that demonstrate my coding style and problem-
 ## 🌐 Connect with Me
 [💼 LinkedIn](https://www.linkedin.com/in/ralph-simon-mabulay-77111b107/) | [🌎 Portfolio Website](https://www.ralphsimonmabulay.me/)
 
-![Ralph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ralphmabulay&show_icons=true&theme=tokyonight)
+![Ralph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=champredralph&show_icons=true&theme=tokyonight)
 
