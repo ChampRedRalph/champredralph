@@ -24,11 +24,9 @@ While my major projects are confidential government systems, they include:
 - PHP, JavaScript, Java  
 - SQL (MySQL, MariaDB)  
 - HTML, CSS, Bootstrap  
-- Laravel, jQuery
 
 **Systems & Databases**  
 - Database Design & Optimization  
-- API Integration  
 - Data Analytics & Visualization  
 
 **IT Administration & Support**  
@@ -48,4 +46,4 @@ I’ve created public repositories that demonstrate my coding style and problem-
 ---
 
 ## 🌐 Connect with Me
-[💼 LinkedIn](https://linkedin.com/in/yourprofile) | [🌎 Portfolio Website](https://yourwebsite.com)
+[💼 LinkedIn](https://www.linkedin.com/in/ralph-simon-mabulay-77111b107/) | [🌎 Portfolio Website](https://www.ralphsimonmabulay.me/)
