@@ -1,7 +1,7 @@
 # Hi, I'm Ralph 👋
 
 💻 ICT Officer | Web & Systems Developer | Data Management Specialist  
-📍 Philippines → Moving to Saskatchewan, Canada 🇨🇦  
+📍 Philippines → Canada 🇨🇦  
 
 ---
 
