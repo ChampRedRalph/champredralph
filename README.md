@@ -39,9 +39,9 @@ While my major projects are confidential government systems, they include:
 ## 📌 Featured Public Work (Non-Confidential)
 I’ve created public repositories that demonstrate my coding style and problem-solving approach, using mock data to reflect real-world applications:  
 
-- [📄 Sample Document Workflow (Mock Data)](https://github.com/yourrepo)  
-- [🔄 Data Cleaning & CSV Tools](https://github.com/yourrepo)  
-- [📊 Simple Dashboard Template](https://github.com/yourrepo)  
+- [📄 Document-Tracking-System](https://github.com/ChampRedRalph/Document-Tracking-System)  
+- [🔄 School-Attendance-Tracker](https://github.com/ChampRedRalph/School-Attendance-Tracker)  
+- [📊 Risk-Opportunity-Registry](https://github.com/ChampRedRalph/Risk-Opportunity-Registry)  
 
 ---
 
