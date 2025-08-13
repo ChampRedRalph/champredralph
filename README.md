@@ -39,9 +39,25 @@ While my major projects are confidential government systems, they include:
 ## 📌 Featured Public Work (Non-Confidential)
 I’ve created public repositories that demonstrate my coding style and problem-solving approach, using mock data to reflect real-world applications:  
 
-- [📄 Document-Tracking-System](https://github.com/ChampRedRalph/Document-Tracking-System)  
-- [🔄 School-Attendance-Tracker](https://github.com/ChampRedRalph/School-Attendance-Tracker)  
-- [📊 Risk-Opportunity-Registry](https://github.com/ChampRedRalph/Risk-Opportunity-Registry)  
+### 📁 Document Tracking System (Mock)
+A PHP/MySQL web application that manages document flow between sections, tracks status updates, and stores route history.  
+**Tech:** PHP, MySQL, Bootstrap  
+[🔗 View Repository](https://github.com/ChampRedRalph/Document-Tracking-System)  
+
+---
+
+### 🗂 School Form 2 Attendance System (Mock)
+An online encoding tool for daily learner attendance, built for educational institutions.  
+**Tech:** PHP, MySQL, HTML/CSS  
+[🔗 View Repository](https://github.com/ChampRedRalph/School-Attendance-Tracker)  
+
+---
+
+### 📊 Risk & Opportunity Registry (Mock)
+A system for recording, categorizing, and tracking risks and opportunities with status monitoring.  
+**Tech:** PHP, MySQL, Bootstrap  
+[🔗 View Repository](https://github.com/ChampRedRalph/Risk-Opportunity-Registry)  
+
 
 ---
 
