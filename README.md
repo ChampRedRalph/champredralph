@@ -14,7 +14,6 @@ While my major projects are confidential government systems, they include:
 - 📊 **Document Tracking Systems (DTS)** – Multi-office document routing with real-time tracking and audit trails  
 - 🏫 **School Information & Attendance Systems** – Streamlined learner records, reporting, and analytics  
 - 📂 **Regional Assessment Portals** – Online examination platforms with mobile and offline capabilities  
-- 🗂 **Records & Risk Management Tools** – For ISO-compliant government operations  
 
 ---
 
