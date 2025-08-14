@@ -1,6 +1,6 @@
 # Hi, I'm Ralph 👋
 
-💻 ICT Personnel| Computer Programmer | Web & Systems Developer | Data Management Specialist  
+💻 ICT Personnel | Computer Programmer | Web & Systems Developer | Data Management Specialist  
 📍 Philippines → Canada 🇨🇦  
 
 ---
