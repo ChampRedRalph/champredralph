@@ -1,6 +1,7 @@
 # Hi, I'm Ralph 👋
 
 💻 ICT Personnel | Computer Programmer | Web Developer | Tech Support
+
 📍 Philippines → Canada 🇨🇦  
 
 ---
