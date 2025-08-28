@@ -2,8 +2,7 @@
 
 💻 ICT Personnel | Computer Programmer | Web Developer | Tech Support
 
-📍 Philippines → Canada 🇨🇦  
-
+📍 Philippines
 ---
 
 ## 🚀 About Me
